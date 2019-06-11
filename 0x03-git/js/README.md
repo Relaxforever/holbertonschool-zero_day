@@ -1,1 +1,0 @@
-Readme fofor js
